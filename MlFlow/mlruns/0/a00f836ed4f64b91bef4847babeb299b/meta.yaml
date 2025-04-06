@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vish8/OneDrive/Desktop/Cursos/MLopsBootcamp/MLOpsBootcamp/MlFlow/mlruns/0/a00f836ed4f64b91bef4847babeb299b/artifacts
+end_time: 1743830477125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a00f836ed4f64b91bef4847babeb299b
+run_name: smiling-kite-433
+run_uuid: a00f836ed4f64b91bef4847babeb299b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743830477078
+status: 3
+tags: []
+user_id: vish8

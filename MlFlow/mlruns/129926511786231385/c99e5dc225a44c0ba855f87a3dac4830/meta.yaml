@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vish8/OneDrive/Desktop/Cursos/MLopsBootcamp/MLOpsBootcamp/MlFlow/mlruns/129926511786231385/c99e5dc225a44c0ba855f87a3dac4830/artifacts
+end_time: 1743908495846
+entry_point_name: ''
+experiment_id: '129926511786231385'
+lifecycle_stage: active
+run_id: c99e5dc225a44c0ba855f87a3dac4830
+run_name: calm-trout-803
+run_uuid: c99e5dc225a44c0ba855f87a3dac4830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743908495753
+status: 3
+tags: []
+user_id: vish8

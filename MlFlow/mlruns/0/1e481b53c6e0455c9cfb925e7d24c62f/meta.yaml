@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vish8/OneDrive/Desktop/Cursos/MLopsBootcamp/MLOpsBootcamp/MlFlow/mlruns/0/1e481b53c6e0455c9cfb925e7d24c62f/artifacts
+end_time: 1743908048296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e481b53c6e0455c9cfb925e7d24c62f
+run_name: powerful-goose-540
+run_uuid: 1e481b53c6e0455c9cfb925e7d24c62f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743908048227
+status: 3
+tags: []
+user_id: vish8

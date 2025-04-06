@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vish8/OneDrive/Desktop/Cursos/MLopsBootcamp/MLOpsBootcamp/MlFlow/mlruns/134905991077507641/f57ac05ed5324380b129b6b0d33509e4/artifacts
+end_time: 1743908518234
+entry_point_name: ''
+experiment_id: '134905991077507641'
+lifecycle_stage: active
+run_id: f57ac05ed5324380b129b6b0d33509e4
+run_name: abrasive-fox-842
+run_uuid: f57ac05ed5324380b129b6b0d33509e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743908518155
+status: 3
+tags: []
+user_id: vish8
