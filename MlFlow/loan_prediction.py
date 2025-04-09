@@ -103,7 +103,7 @@ grid_tree = GridSearchCV(
 model_tree = grid_tree.fit(X_train, y_train)
 
 
-mlflow.set_experiment("Predição de Empréstimos")
+mlflow.set_experiment("Loan_prediction")
 
 
 #Model metrics
