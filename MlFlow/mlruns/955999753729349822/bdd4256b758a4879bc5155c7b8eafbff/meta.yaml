@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vish8/OneDrive/Desktop/Cursos/MLopsBootcamp/MLOpsBootcamp/MlFlow/mlruns/955999753729349822/bdd4256b758a4879bc5155c7b8eafbff/artifacts
+end_time: 1744116145345
+entry_point_name: ''
+experiment_id: '955999753729349822'
+lifecycle_stage: active
+run_id: bdd4256b758a4879bc5155c7b8eafbff
+run_name: intrigued-sloth-365
+run_uuid: bdd4256b758a4879bc5155c7b8eafbff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744116138638
+status: 3
+tags: []
+user_id: vish8

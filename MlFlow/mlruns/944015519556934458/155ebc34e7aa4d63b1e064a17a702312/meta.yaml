@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vish8/OneDrive/Desktop/Cursos/MLopsBootcamp/MLOpsBootcamp/MlFlow/mlruns/944015519556934458/155ebc34e7aa4d63b1e064a17a702312/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '944015519556934458'
+lifecycle_stage: active
+run_id: 155ebc34e7aa4d63b1e064a17a702312
+run_name: enthused-cow-997
+run_uuid: 155ebc34e7aa4d63b1e064a17a702312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744132835157
+status: 1
+tags: []
+user_id: vish8

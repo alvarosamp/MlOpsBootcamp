@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vish8/OneDrive/Desktop/Cursos/MLopsBootcamp/MLOpsBootcamp/MlFlow/mlruns/944015519556934458/450c1d62d86e48aa87c04535fb40ea38/artifacts
+end_time: 1744159607565
+entry_point_name: ''
+experiment_id: '944015519556934458'
+lifecycle_stage: active
+run_id: 450c1d62d86e48aa87c04535fb40ea38
+run_name: LogisticRegression
+run_uuid: 450c1d62d86e48aa87c04535fb40ea38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744159604879
+status: 3
+tags: []
+user_id: vish8

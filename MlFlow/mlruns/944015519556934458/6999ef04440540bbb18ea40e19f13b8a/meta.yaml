@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vish8/OneDrive/Desktop/Cursos/MLopsBootcamp/MLOpsBootcamp/MlFlow/mlruns/944015519556934458/6999ef04440540bbb18ea40e19f13b8a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '944015519556934458'
+lifecycle_stage: active
+run_id: 6999ef04440540bbb18ea40e19f13b8a
+run_name: adorable-robin-948
+run_uuid: 6999ef04440540bbb18ea40e19f13b8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744134149970
+status: 1
+tags: []
+user_id: vish8

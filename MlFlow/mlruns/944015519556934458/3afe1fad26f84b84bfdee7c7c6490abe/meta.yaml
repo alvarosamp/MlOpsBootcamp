@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vish8/OneDrive/Desktop/Cursos/MLopsBootcamp/MLOpsBootcamp/MlFlow/mlruns/944015519556934458/3afe1fad26f84b84bfdee7c7c6490abe/artifacts
+end_time: 1744139880503
+entry_point_name: ''
+experiment_id: '944015519556934458'
+lifecycle_stage: active
+run_id: 3afe1fad26f84b84bfdee7c7c6490abe
+run_name: judicious-shrimp-930
+run_uuid: 3afe1fad26f84b84bfdee7c7c6490abe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744139871850
+status: 3
+tags: []
+user_id: vish8
