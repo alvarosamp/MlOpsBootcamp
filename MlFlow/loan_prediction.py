@@ -28,8 +28,10 @@ for col in numerical_cols:
 #Take care of outliers
 dataset[numerical_cols] = dataset[numerical_cols].apply(lambda x: x.clip(*x.quantile([0.05, 0.95])))
 
-#Log transformation  & Domain Processing
+# Log transformation & Domain Processing
+# Apply log transformation to reduce skewness in data with high variance
 dataset['LoanAmount'] = np.log(dataset['LoanAmount']).copy()
+# Create a new feature 'TotalIncome' and apply log transformation
 dataset['TotalIncome'] = dataset['ApplicantIncome'] + dataset['CoapplicantIncome']
 dataset['TotalIncome'] = np.log(dataset['TotalIncome']).copy()
 

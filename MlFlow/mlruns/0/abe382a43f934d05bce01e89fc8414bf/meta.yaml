@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vish8/OneDrive/Desktop/Cursos/MLopsBootcamp/MLOpsBootcamp/MlFlow/mlruns/0/abe382a43f934d05bce01e89fc8414bf/artifacts
+end_time: 1745089774563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abe382a43f934d05bce01e89fc8414bf
+run_name: industrious-pug-387
+run_uuid: abe382a43f934d05bce01e89fc8414bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745089633736
+status: 4
+tags: []
+user_id: vish8

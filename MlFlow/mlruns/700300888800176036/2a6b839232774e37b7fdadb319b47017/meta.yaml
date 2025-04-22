@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vish8/OneDrive/Desktop/Cursos/MLopsBootcamp/MLOpsBootcamp/MlFlow/mlruns/700300888800176036/2a6b839232774e37b7fdadb319b47017/artifacts
+end_time: 1744995889868
+entry_point_name: ''
+experiment_id: '700300888800176036'
+lifecycle_stage: active
+run_id: 2a6b839232774e37b7fdadb319b47017
+run_name: DecisionTreeClassifier
+run_uuid: 2a6b839232774e37b7fdadb319b47017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744995881252
+status: 3
+tags: []
+user_id: vish8

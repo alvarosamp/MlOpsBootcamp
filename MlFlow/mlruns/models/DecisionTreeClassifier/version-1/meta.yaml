@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745241833089
+current_stage: None
+description: ''
+last_updated_timestamp: 1745241833089
+name: DecisionTreeClassifier
+run_id: 2354aa6fffca46dfb195026f052c42c9
+run_link: ''
+source: file:///C:/Users/vish8/OneDrive/Desktop/Cursos/MLopsBootcamp/MLOpsBootcamp/MlFlow/mlruns/700300888800176036/2354aa6fffca46dfb195026f052c42c9/artifacts/DecisionTreeClassifier
+status: READY
+status_message: null
+storage_location: file:///C:/Users/vish8/OneDrive/Desktop/Cursos/MLopsBootcamp/MLOpsBootcamp/MlFlow/mlruns/700300888800176036/2354aa6fffca46dfb195026f052c42c9/artifacts/DecisionTreeClassifier
+user_id: null
+version: 1

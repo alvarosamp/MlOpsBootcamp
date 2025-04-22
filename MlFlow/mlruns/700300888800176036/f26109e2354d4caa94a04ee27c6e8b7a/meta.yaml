@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vish8/OneDrive/Desktop/Cursos/MLopsBootcamp/MLOpsBootcamp/MlFlow/mlruns/700300888800176036/f26109e2354d4caa94a04ee27c6e8b7a/artifacts
+end_time: 1745089920484
+entry_point_name: ''
+experiment_id: '700300888800176036'
+lifecycle_stage: active
+run_id: f26109e2354d4caa94a04ee27c6e8b7a
+run_name: RandomForestClassifier
+run_uuid: f26109e2354d4caa94a04ee27c6e8b7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745089917743
+status: 3
+tags: []
+user_id: vish8

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745241839793
+current_stage: None
+description: ''
+last_updated_timestamp: 1745241839793
+name: RandomForestClassifier
+run_id: d661bbb05e93412cbc12e7e2a1d14b57
+run_link: ''
+source: file:///C:/Users/vish8/OneDrive/Desktop/Cursos/MLopsBootcamp/MLOpsBootcamp/MlFlow/mlruns/700300888800176036/d661bbb05e93412cbc12e7e2a1d14b57/artifacts/RandomForestClassifier
+status: READY
+status_message: null
+storage_location: file:///C:/Users/vish8/OneDrive/Desktop/Cursos/MLopsBootcamp/MLOpsBootcamp/MlFlow/mlruns/700300888800176036/d661bbb05e93412cbc12e7e2a1d14b57/artifacts/RandomForestClassifier
+user_id: null
+version: 1
